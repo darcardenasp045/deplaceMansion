@@ -4,7 +4,8 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ['Favorit', 'sans-serif'],
+				Favorit: ['Favorit', 'sans-serif'],
+				Cyberthron: ['Cyberthron', 'sans-serif'],
 			}
 		},
 	},
